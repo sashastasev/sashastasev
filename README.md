@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sashastasev
+- 👀 I’m junior python and php developer.
